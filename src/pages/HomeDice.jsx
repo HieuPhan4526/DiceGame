@@ -15,7 +15,7 @@ export default function HomeDice() {
         Game Dice
       </div>
       <div className="container">
-        <div className="row text-center">
+        <div className="row text-center gameCol">
           <div className="col-4">
             <button
               style={{ width: "150px", height: "150px", fontSize: "30px" }}

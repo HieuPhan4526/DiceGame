@@ -12,7 +12,7 @@ export default function Dice() {
           key={index}
           width={50}
           height={50}
-          className="mr-2"
+          className="mr-2 diceImg"
           src={dice.hinhAnh}
           alt=""
         />
